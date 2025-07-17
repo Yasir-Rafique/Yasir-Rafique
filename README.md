@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Muhammad Yasir Rafique
 
-[![Check my Gravatar](https://www.gravatar.com/avatar/c0d6dd387d16d146104c6ffdb730f099?s=120)](https://gravatar.com/inventivec0d6dd387d)
+[![Gravatar](https://www.gravatar.com/avatar/c0d6dd387d16d146104c6ffdb730f099?s=120)](https://gravatar.com/inventivec0d6dd387d)
+👉 [Check my Gravatar!](https://gravatar.com/inventivec0d6dd387d)
+
 
 🚀 Passionate Full Stack Developer | JavaScript | React Native | Mentor  
 Always building, always learning. I love crafting impactful web and mobile apps that help people and organizations grow.  
@@ -41,9 +43,9 @@ TypeScript | Advanced React Patterns | Cloud & AWS
 
 ## 💬 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yasir-rafique/)
-- [yasirrafique223@gmail.com](mailto:yasirrafique06@gmail.com)
-- ![Gravatar](https://gravatar.com/inventivec0d6dd387d)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yasir-rafique/)
+- 📩 [yasirrafique223@gmail.com](mailto:yasirrafique06@gmail.com)
+- 👉 [Check my Gravatar!](https://gravatar.com/inventivec0d6dd387d)
 
 ---
 
