@@ -33,16 +33,16 @@ Mentor @ CodingCoach | Open Source Contributor | Achievement Hunter on GitHub
 ## 🚩 Projects
 
 - [SocialMedia-reactNative-learning-app](https://github.com/Yasir-Rafique/SocialMedia-reactNative-learning-app) — Modern social platform, React Native.
-- [Puter (contributor)](https://github.com/Yasir-Rafique/puter) — Open-source desktop OS in the browser.
-- [NestJS (contributor)](https://github.com/Yasir-Rafique/nest)
-- [Cinema Ticket API](https://github.com/Yasir-Rafique/Cinema-Ticket-Solution)
-- [NodeJS](https://github.com/Yasir-Rafique/node) 
+- [Puter (contributor)](https://github.com/Yasir-Rafique/puter) — Contributed to an Open-source desktop OS in the browser.
+- [NestJS (contributor)](https://github.com/Yasir-Rafique/nest) - Contributed to a leading TypeScript-based Node.js backend framework.
+- [Cinema Ticket API](https://github.com/Yasir-Rafique/Cinema-Ticket-Solution) - Developed a scalable backend API for cinema ticket booking and management.
+- [NodeJS](https://github.com/Yasir-Rafique/node)  - Contributed to the open-source Node.js runtime for server-side JavaScript.
 
 ---
 
 ## 🌱 Currently Learning
 
-TypeScript | Advanced React Patterns | Cloud & AWS
+TypeScript | Advanced React Patterns | Cloud & AWS | React-native
 
 ---
 
@@ -56,7 +56,7 @@ TypeScript | Advanced React Patterns | Cloud & AWS
 
 ## 🏆 Achievements
 
-- Pull Shark | YOLO | [Add more GitHub Achievements here]
+- Pull Shark | YOLO | Sponsor 
 - Mentor @ [CodingCoach](https://mentors.codingcoach.io/u/6875f3e1f7dfb4f5094d73dc)
 
 ---
