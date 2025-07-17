@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Yasir Rafique
+# 👋 Hi, I’m Muhammad Yasir Rafique
 
 ![Check my Gravatar](https://gravatar.com/inventivec0d6dd387d)
 
