@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I’m Yasir Rafique
 
-<!--
-**Yasir-Rafique/Yasir-Rafique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Gravatar](https://www.gravatar.com/avatar/c0d6dd387d16d146104c6ffdb730f099?s=120)
 
-Here are some ideas to get you started:
+🚀 Passionate Full Stack Developer | JavaScript | React Native | Mentor  
+Always building, always learning. I love crafting impactful web and mobile apps that help people and organizations grow.  
+Mentor @ CodingCoach | Open Source Contributor | Achievement Hunter on GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<!-- Add more as you like -->
+
+---
+
+## 🚩 Projects
+
+- [SocialMedia-reactNative-learning-app](https://github.com/Yasir-Rafique/SocialMedia-reactNative-learning-app) — Modern social platform, React Native.
+- [puter (contributor)](https://github.com/Yasir-Rafique/puter) — Open-source desktop OS in the browser.
+- [Your Other Project Here](#) — Add more projects with links!
+
+---
+
+## 🌱 Currently Learning
+
+TypeScript | Advanced React Patterns | Cloud & DevOps
+
+---
+
+## 💬 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/yasir-rafique/)
+- 📧 Email: [yasirrafique06@gmail.com](mailto:yasirrafique06@gmail.com)
+- ![Gravatar](https://gravatar.com/inventivec0d6dd387d)
+
+---
+
+## 🏆 Achievements
+
+- Pull Shark | YOLO | [Add more GitHub Achievements here]
+- Mentor @ [CodingCoach](https://mentors.codingcoach.io/u/6875f3e1f7dfb4f5094d73dc)
+
+---
+
+## 📈 GitHub Stats
+
+![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasir-Rafique&show_icons=true&theme=radical)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
