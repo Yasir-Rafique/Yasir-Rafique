@@ -33,8 +33,10 @@ Mentor @ CodingCoach | Open Source Contributor | Achievement Hunter on GitHub
 ## 🚩 Projects
 
 - [SocialMedia-reactNative-learning-app](https://github.com/Yasir-Rafique/SocialMedia-reactNative-learning-app) — Modern social platform, React Native.
-- [puter (contributor)](https://github.com/Yasir-Rafique/puter) — Open-source desktop OS in the browser.
-- [Your Other Project Here](#) — Add more projects with links!
+- [Puter (contributor)](https://github.com/Yasir-Rafique/puter) — Open-source desktop OS in the browser.
+- [NestJS (contributor)](https://github.com/Yasir-Rafique/nest)
+- [Cinema Ticket API](https://github.com/Yasir-Rafique/Cinema-Ticket-Solution)
+- [NodeJS](https://github.com/Yasir-Rafique/node) 
 
 ---
 
