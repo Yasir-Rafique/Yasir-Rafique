@@ -16,7 +16,6 @@ Mentor @ CodingCoach | Open Source Contributor | Achievement Hunter on GitHub
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
@@ -29,7 +28,7 @@ Mentor @ CodingCoach | Open Source Contributor | Achievement Hunter on GitHub
 
 ## 🧑‍💻 Top Merged Contributions
 - [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs/pull/1331)
-- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate/pull/2632)
+- [Bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate/pull/2632)
 
 ## 🚩 Projects
 
