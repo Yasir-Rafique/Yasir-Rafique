@@ -27,8 +27,9 @@ Mentor @ CodingCoach | Open Source Contributor | Achievement Hunter on GitHub
 
 ---
 
-## 🧑‍💻 Top Contributions
-- [AWesome NodeJS](https://github.com/sindresorhus/awesome-nodejs/pull/1331)
+## 🧑‍💻 Top Merged Contributions
+- [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs/pull/1331)
+- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate/pull/2632)
 
 ## 🚩 Projects
 
