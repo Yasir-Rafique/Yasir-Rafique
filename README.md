@@ -27,6 +27,7 @@ Mentor @ CodingCoach | Open Source Contributor | Achievement Hunter on GitHub
 ---
 
 ## 🧑‍💻 Top Merged Contributions
+- [Puter](https://github.com/HeyPuter/puter/pull/1347)
 - [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs/pull/1331)
 - [Bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate/pull/2632)
 
