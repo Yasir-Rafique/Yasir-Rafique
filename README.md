@@ -41,6 +41,11 @@ Mentor @ CodingCoach | Open Source Contributor | Achievement Hunter on GitHub
 
 ---
 
+## ✅ Top Selected Answers
+- [Unexpected high number of image optimizations](https://github.com/vercel/next.js/discussions/81893)
+
+---
+
 ## 🌱 Currently Learning
 
 TypeScript | Advanced React Patterns | Cloud & AWS | React-native
