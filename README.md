@@ -48,7 +48,7 @@ Mentor @ CodingCoach | Open Source Contributor | Achievement Hunter on GitHub
 
 ## 🌱 Currently Learning
 
-TypeScript | Advanced React Patterns | Cloud & AWS | React-native
+Next.js | TypeScript | Advanced React Patterns | Cloud & AWS | React-native
 
 ---
 
