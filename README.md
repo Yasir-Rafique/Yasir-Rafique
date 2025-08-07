@@ -33,8 +33,12 @@ Mentor @ CodingCoach | Open Source Contributor | Achievement Hunter on GitHub
 
 ## 🚩 Projects
 
-- [SocialMedia-reactNative-learning-app](https://github.com/Yasir-Rafique/SocialMedia-reactNative-learning-app) — Modern social platform, React Native.
-- [Puter (contributor)](https://github.com/Yasir-Rafique/puter) — Contributed to an Open-source desktop OS in the browser.
+- [Read Me Genie](https://github.com/Yasir-Rafique/readmegenie) - Create stunning GitHub READMEs No markdown needed  [Live DEMO](https://read-me-genie.netlify.app/)
+- [REST API Starter](https://github.com/Yasir-Rafique/rest-api-starter) - Production-Ready Node.js boilerplate with auth & CRUD
+- [Toolbelt-JS](https://github.com/Yasir-Rafique/toolbelt-js) - A zero-dependency utility belt includes debounce, throttle, deepClone, uniqueArray, and more
+- [JSON2TS](https://github.com/Yasir-Rafique/json2ts) - Instantly convert JSON to TypeScript interfaces   [Live DEMO](https://json2ts-ashy.vercel.app/)
+- [SocialMedia-reactNative-learning-app](https://github.com/Yasir-Rafique/SocialMedia-reactNative-learning-app) - Modern social platform, React Native.
+- [Puter (contributor)](https://github.com/Yasir-Rafique/puter) - Contributed to an Open-source desktop OS in the browser.
 - [NestJS (contributor)](https://github.com/Yasir-Rafique/nest) - Contributed to a leading TypeScript-based Node.js backend framework.
 - [Cinema Ticket API](https://github.com/Yasir-Rafique/Cinema-Ticket-Solution) - Developed a scalable backend API for cinema ticket booking and management.
 - [NodeJS](https://github.com/Yasir-Rafique/node)  - Contributed to the open-source Node.js runtime for server-side JavaScript.
