@@ -63,7 +63,7 @@ Next.js | TypeScript | Advanced React Patterns | Cloud & AWS | React-native
 
 ## 🏆 Achievements
 
-- Pull Shark | YOLO | Sponsor 
+- Pull Shark | YOLO | Sponsor | Quickdraw | Galaxy Brain
 - Mentor @ [CodingCoach](https://mentors.codingcoach.io/u/6875f3e1f7dfb4f5094d73dc)
 
 ---
