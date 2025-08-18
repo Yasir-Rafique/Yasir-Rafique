@@ -46,6 +46,7 @@ Mentor @ CodingCoach | Open Source Contributor | Achievement Hunter on GitHub
 ---
 
 ## ✅ Top Selected Answers
+- [[libnode] How to build nodejs/libnode to a statically linkable binary?](https://github.com/orgs/nodejs/discussions/4560)
 - [Unexpected high number of image optimizations](https://github.com/vercel/next.js/discussions/81893)
 - [treaming-compatible middleware pipeline in Express without buffering the request/response](https://github.com/expressjs/express/discussions/6686)
 
