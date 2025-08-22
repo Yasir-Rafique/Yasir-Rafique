@@ -27,9 +27,10 @@ Mentor @ CodingCoach | Open Source Contributor | Achievement Hunter on GitHub
 ---
 
 ## 🧑‍💻 Top Merged Contributions
-- [Puter](https://github.com/HeyPuter/puter/pull/1347)
-- [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs/pull/1331)
-- [Bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate/pull/2632)
+- [Relax monitor URL validation #2632](https://github.com/bluewave-labs/Checkmate/pull/2632)
+- [fix: add white stroke to SVG logo text for dark mode visibility (#1319) #1331](https://github.com/sindresorhus/awesome-nodejs/pull/1331)
+- [chore: apply Prettier formatting and add formatting config #1347](https://github.com/HeyPuter/puter/pull/1347)
+
 
 ## 🚩 Projects
 
