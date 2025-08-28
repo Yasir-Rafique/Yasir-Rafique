@@ -2,6 +2,7 @@
 
 [![Gravatar](https://www.gravatar.com/avatar/c0d6dd387d16d146104c6ffdb730f099?s=120)](https://gravatar.com/inventivec0d6dd387d)
 👉 [Check my Gravatar!](https://gravatar.com/inventivec0d6dd387d)
+👉 [Checkout my Portfolio](https://yasirrafique-portfolio.netlify.app)
 
 
 🚀 Passionate Full Stack Developer | JavaScript | React Native | Mentor  
@@ -12,17 +13,38 @@ Mentor @ CodingCoach | Open Source Contributor | Achievement Hunter on GitHub
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+<!-- --- Backend --- -->
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Swagger API](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)
+![OpenActive](https://img.shields.io/badge/-OpenActive-black?style=flat-square)
+![API Development](https://img.shields.io/badge/-API%20Development-black?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![WebSockets](https://img.shields.io/badge/-WebSockets-black?style=flat-square&logo=socketdotio)
+
+<!-- --- Database / Cloud --- -->
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+
+<!-- --- Frontend --- -->
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?style=flat-square&logo=framer)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<!-- Add more as you like -->
+
+<!-- --- Mobile --- -->
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+![Agora](https://img.shields.io/badge/-Agora-black?style=flat-square)
+
+<!-- --- DevOps / Tools --- -->
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?style=flat-square&logo=bitbucket)
+![HubSpot](https://img.shields.io/badge/-HubSpot-black?style=flat-square&logo=hubspot)
+![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat-square&logo=stripe)
 
 ---
 
