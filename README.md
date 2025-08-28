@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Muhammad Yasir Rafique
 
-[![Gravatar](https://www.gravatar.com/avatar/c0d6dd387d16d146104c6ffdb730f099?s=120)](https://gravatar.com/inventivec0d6dd387d)
+[![Gravatar](https://www.gravatar.com/avatar/c0d6dd387d16d146104c6ffdb730f099?s=120)]
 👉 [Check my Gravatar!](https://gravatar.com/inventivec0d6dd387d)
 👉 [Checkout my Portfolio](https://yasirrafique-portfolio.netlify.app)
 
