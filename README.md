@@ -4,9 +4,10 @@
 👉 [Check my Gravatar!](https://gravatar.com/inventivec0d6dd387d)
 
 
-🚀 Passionate Full Stack Developer | JavaScript | React Native | Mentor  
+🚀 Passionate Web Backend Engineer | Node.js & APIs | Exploring AI Engineering & GenAI | Mentor @ CodingCoach | Open Source Contributor  Achievement Hunter on GitHub
+
 Always building, always learning. I love crafting impactful web and mobile apps that help people and organizations grow.  
-Mentor @ CodingCoach | Open Source Contributor | Achievement Hunter on GitHub
+
 
 ---
 
