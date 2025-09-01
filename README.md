@@ -2,6 +2,7 @@
 
 👉 [Checkout my Portfolio](https://yasirrafique-portfolio.netlify.app)
 👉 [Check my Gravatar!](https://gravatar.com/inventivec0d6dd387d)
+👉 [Check my LinkedIn](https://www.linkedin.com/in/yasir-rafique)
 
 
 🚀 Passionate Web Backend Engineer | Node.js & APIs | Exploring AI Engineering & GenAI | Mentor @ CodingCoach | Open Source Contributor  Achievement Hunter on GitHub
