@@ -60,6 +60,7 @@ Always building, always learning. I love crafting impactful web and mobile apps 
 
 ## 🚩 Projects
 
+- [ScribeLens](https://github.com/Yasir-Rafique/readmegenie) -  built for people who need fast, accurate answers from their own documents  [Live DEMO](https://scribe-lens.up.railway.app/)
 - [Read Me Genie](https://github.com/Yasir-Rafique/readmegenie) - Create stunning GitHub READMEs No markdown needed  [Live DEMO](https://read-me-genie.netlify.app/)
 - [REST API Starter](https://github.com/Yasir-Rafique/rest-api-starter) - Production-Ready Node.js boilerplate with auth & CRUD
 - [Toolbelt-JS](https://github.com/Yasir-Rafique/toolbelt-js) - A zero-dependency utility belt includes debounce, throttle, deepClone, uniqueArray, and more
