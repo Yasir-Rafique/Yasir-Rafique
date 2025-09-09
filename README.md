@@ -47,6 +47,9 @@ Always building, always learning. I love crafting impactful web and mobile apps 
 ![HubSpot](https://img.shields.io/badge/-HubSpot-black?style=flat-square&logo=hubspot)
 ![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat-square&logo=stripe)
 
+<!-- Open AI -- -->
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
 ---
 
 ## 🧑‍💻 Top Merged Contributions
